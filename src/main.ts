@@ -1,1 +1,1 @@
-import './hybridTypes';
+import './functions';

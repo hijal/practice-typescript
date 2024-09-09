@@ -1,1 +1,1 @@
-import './generic';
+import './classes';

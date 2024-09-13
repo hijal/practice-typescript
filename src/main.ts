@@ -1,1 +1,1 @@
-import './omit';
+import './record';

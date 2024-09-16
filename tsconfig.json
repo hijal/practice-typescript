@@ -43,7 +43,11 @@
     "sourceMap": true,
     "verbatimModuleSyntax": true,
     "useUnknownInCatchVariables": true,
-    "noEmitOnError": true
+    "noEmitOnError": true,
+
+    /* Language and Environment */
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
   },
   "include": ["src"]
 }

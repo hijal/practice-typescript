@@ -1,1 +1,1 @@
-import './extract';
+import './decorator';
